@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @anmolgxrg
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
 - 📫 a.anmolgarg@gmail.com 
 
 <!---
