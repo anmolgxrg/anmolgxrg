@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anmolgxrg
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Web Development
 - 📫 a.anmolgarg@gmail.com 
 
 <!---
