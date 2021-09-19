@@ -1,7 +1,7 @@
 ### Hi, I'm Anmol 👋
 
 
-- 🔭 Currently working as intern at hivends infosolutions
-- 🌱 I’m currently learning javascript
+- 🔭 Intern at Hivends infosolutions
+- 🌱 I’m currently learning Javascript
 - 📫 a.anmolgarg@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/anmlgrg
