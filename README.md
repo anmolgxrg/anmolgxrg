@@ -1,4 +1,4 @@
-# Hi, I'm Anmol 👋
+# Hi, I'm Anmol
 
 
 - 🔭 Web at Vebcor Technologies
