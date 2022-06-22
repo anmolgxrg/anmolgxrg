@@ -2,7 +2,7 @@
 
 
 - 🔭 Web at Vebcor Technologies
-- 🌱 I’m currently learning Javascript
+<!-- - 🌱 I’m currently learning Javascript -->
 - 📫 a.anmolgarg@gmail.com
 
   [![Twitter: kindavishal](https://img.shields.io/twitter/follow/anmolgxrg?style=social)](https://twitter.com/intent/user?screen_name=anmolgxrg) [![Linkedin: kindavishal](https://img.shields.io/badge/-anmolgarg404-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmolgarg404/)](https://www.linkedin.com/in/anmolgarg404/) [![GitHub iampawan](https://img.shields.io/github/followers/anmolgxrg?label=follow&style=social)](https://github.com/anmolgxrg)
