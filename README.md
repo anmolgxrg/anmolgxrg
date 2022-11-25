@@ -1,7 +1,7 @@
 # Hi, I'm Anmol
 
 
-- 🔭 Web at Vebcor Technologies
+<!-- - 🔭 Web at Vebcor Technologies -->
 <!-- - 🌱 I’m currently learning Javascript -->
 - 📫 a.anmolgarg@gmail.com
 
