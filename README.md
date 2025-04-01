@@ -8,17 +8,8 @@ I'm a Computer Science student at [Penn State University](https://www.psu.edu) w
 - **Frameworks & Tools:** ReactJS, NodeJS, MongoDB, MySQL, Streamlit, AWS, Hadoop, Git
 - **Projects:** Developed data analysis pipelines and web apps for research, including NeuroAdaptive VR Therapy and an Integrated Data Intelligence System.
 
-## Professional & Research Experience
-
-- **Undergraduate Research Assistant, D3M Lab @ Penn State**  
-  Built web applications and algorithms to extract insights from large datasets.
-  
-- **Software Developer Intern**  
-  Led development projects that optimized performance and streamlined operations in tech and healthcare environments.
-
-## Leadership
-
-- Spearheaded technical teams in university projects and led the Enigma Technical Society as President.
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## Connect
 
