@@ -52,16 +52,16 @@ Sunday                   79 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+zebrafishAtlas           0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -81,7 +81,7 @@ Mathematica              1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/anmolgxrg/anmolgxrg/main/assets/bar_graph.png)
 
 
- Last Updated on 02/04/2025 00:03:19 UTC
+ Last Updated on 02/04/2025 18:51:01 UTC
 <!--END_SECTION:waka-->
 
 ## Connect
