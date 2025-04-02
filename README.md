@@ -15,7 +15,7 @@ I'm a Computer Science student at [Penn State University](https://www.psu.edu) w
 
 **🐱 My GitHub Data** 
 
-> 📦 322.9 kB Used in GitHub's Storage 
+> 📦 323.0 kB Used in GitHub's Storage 
  > 
 > 🏆 87 Contributions in the Year 2025
  > 
@@ -81,7 +81,7 @@ Mathematica              1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/anmolgxrg/anmolgxrg/main/assets/bar_graph.png)
 
 
- Last Updated on 01/04/2025 23:05:54 UTC
+ Last Updated on 02/04/2025 00:03:19 UTC
 <!--END_SECTION:waka-->
 
 ## Connect
