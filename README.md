@@ -4,10 +4,20 @@ I'm a Computer Science student at [Penn State University](https://www.psu.edu) w
 
 ## Connect
 
-[![Email](https://img.shields.io/badge/Email-a.anmolgarg@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:a.anmolgarg@gmail.com)
-[![Website](https://img.shields.io/badge/Website-anmolgarg.net-0A0A0A?style=for-the-badge&logo=google-chrome)](https://www.anmolgarg.net)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anmolgarg404-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anmolgarg404/)
-[![GitHub](https://img.shields.io/badge/GitHub-anmolgxrg-181717?style=for-the-badge&logo=github)](https://github.com/anmolgxrg)
+<p align="left">
+  <a href="mailto:a.anmolgarg@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-a.anmolgarg@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.anmolgarg.net" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/Website-anmolgarg.net-000000?style=flat&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/anmolgarg404/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-anmolgarg404-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/anmolgxrg" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-anmolgxrg-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
 
 **🐱 My GitHub Data** 
 
@@ -37,23 +47,5 @@ Thursday                 49 commits          ██░░░░░░░░░�
 Friday                   69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
 Saturday                 68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
 Sunday                   79 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-🐱‍💻 Projects: 
-zebrafishAtlas                         █████████████████████████   100.00 % 
-```
-
-```text
-HTML                     9 repos             ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
-JavaScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Python                   6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Mathematica              1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 <!--END_SECTION:waka-->
