@@ -2,24 +2,18 @@
 
 I'm a Computer Science student at [Penn State University](https://www.psu.edu) with a strong focus on software development, research, and technical innovation. I'm currently enhancing my skills in JavaScript and modern web technologies.
 
-## Technical Snapshot
+## Connect
 
-- **Languages:** Python, Java, JavaScript, HTML, CSS, C
-- **Frameworks & Tools:** ReactJS, NodeJS, MongoDB, MySQL, Streamlit, AWS, Hadoop, Git
-- **Projects:** Developed data analysis pipelines and web apps for research, including NeuroAdaptive VR Therapy and an Integrated Data Intelligence System.
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+[![Email](https://img.shields.io/badge/Email-a.anmolgarg@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:a.anmolgarg@gmail.com)
+[![Website](https://img.shields.io/badge/Website-anmolgarg.net-0A0A0A?style=for-the-badge&logo=google-chrome)](https://www.anmolgarg.net)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anmolgarg404-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anmolgarg404/)
+[![GitHub](https://img.shields.io/badge/GitHub-anmolgxrg-181717?style=for-the-badge&logo=github)](https://github.com/anmolgxrg)
 
 **🐱 My GitHub Data** 
 
 > 📦 323.0 kB Used in GitHub's Storage 
  > 
 > 🏆 87 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
  > 
 > 📜 23 Public Repositories 
  > 
@@ -51,17 +45,8 @@ Sunday                   79 commits          ███░░░░░░░░�
 ```text
 🕑︎ Time Zone: America/New_York
 
-💬 Programming Languages: 
-HTML                     0 secs              █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
-
 🐱‍💻 Projects: 
-zebrafishAtlas           0 secs              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+zebrafishAtlas                         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -79,14 +64,4 @@ Mathematica              1 repo              █░░░░░░░░░░�
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/anmolgxrg/anmolgxrg/main/assets/bar_graph.png)
-
-
- Last Updated on 02/04/2025 18:51:01 UTC
 <!--END_SECTION:waka-->
-
-## Connect
-
-- **Email:** [a.anmolgarg@gmail.com](mailto:a.anmolgarg@gmail.com)
-- **Website:** [anmolgarg.net](https://www.anmolgarg.net)
-- **LinkedIn:** [anmolgarg404](https://www.linkedin.com/in/anmolgarg404/)
-- **GitHub:** [anmolgxrg](https://github.com/anmolgxrg)
