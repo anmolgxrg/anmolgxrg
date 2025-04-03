@@ -1,6 +1,6 @@
 # Hi, I'm Anmol
 
-I'm a Computer Science student at [Penn State University](https://www.psu.edu) with a strong focus on software development, research, and technical innovation. I'm currently enhancing my skills in JavaScript and modern web technologies.
+I'm a Computer Science student at [Penn State University](https://www.psu.edu) with a strong focus on software development and research. I'm currently work mostly with JS applications and research projects at intersection of Healthcare, VR and AI.
 
 ## Connect
 
