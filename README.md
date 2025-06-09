@@ -8,9 +8,9 @@ I'm a Computer Science student at [Penn State University](https://www.psu.edu) w
   <a href="mailto:a.anmolgarg@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-a.anmolgarg@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.anmolgarg.net" target="_blank">
+<!--   <a href="https://www.anmolgarg.net" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/Website-anmolgarg.net-000000?style=flat&logo=google-chrome&logoColor=white" />
-  </a>
+  </a>-->
   <a href="https://www.linkedin.com/in/anmolgarg404/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-anmolgarg404-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
