@@ -1,7 +1,5 @@
 # Hi, I'm Anmol
 
-I'm a Computer Science student at [Penn State University](https://www.psu.edu) with a strong focus on software development and research. I'm currently work mostly with JS applications and research projects at intersection of Healthcare, VR and AI.
-
 ## Connect
 
 <p align="left">
@@ -14,15 +12,10 @@ I'm a Computer Science student at [Penn State University](https://www.psu.edu) w
   <a href="https://www.linkedin.com/in/anmolgarg404/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-anmolgarg404-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/anmolgxrg" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-anmolgxrg-181717?style=flat&logo=github&logoColor=white" />
-  </a>
 </p>
 
 **🐱 My GitHub Data** 
 
-> 📦 323.0 kB Used in GitHub's Storage 
- > 
 > 🏆 87 Contributions in the Year 2025
  > 
 > 📜 23 Public Repositories 
