@@ -3,7 +3,7 @@
     <img alt="Email" src="https://img.shields.io/badge/a.anmolgarg@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   
-  <a href="https://www.anmolgarg.net" target="_blank" style="margin: 0 10px;">
+  <a href="https://anmolgarg.net" target="_blank" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/anmolgarg.net-000000?style=flat&logo=google-chrome&logoColor=white" />
   </a>
   
